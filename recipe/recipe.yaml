@@ -120,7 +120,7 @@ source:
     target_directory: etc/vomses
 
 build:
-  number: 0
+  number: 1
   noarch: generic
   script: build.py
 
